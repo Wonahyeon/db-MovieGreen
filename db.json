@@ -1,5 +1,5 @@
 {
-  "user":
+  "user": [
     {
     "name": "테스트1",
     "idMail": "test1@naver.com",
@@ -15,4 +15,5 @@
       "idMail": "test3@naver.com",
       "passWord": "Test3"
     }
+  ]
 }
