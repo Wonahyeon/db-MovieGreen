@@ -1,17 +1,18 @@
-[
-  {
-  "name": "테스트1",
-  "idMail": "test1@naver.com",
-  "passWord": "Test1"
-  },
-  {
-    "name": "테스트2",
-    "idMail": "test2@naver.com",
-    "passWord": "Test2"
-  },
-  {
-    "name": "테스트3",
-    "idMail": "test3@naver.com",
-    "passWord": "Test3"
-  }
-]
+{
+  "user":
+    {
+    "name": "테스트1",
+    "idMail": "test1@naver.com",
+    "passWord": "Test1"
+    },
+    {
+      "name": "테스트2",
+      "idMail": "test2@naver.com",
+      "passWord": "Test2"
+    },
+    {
+      "name": "테스트3",
+      "idMail": "test3@naver.com",
+      "passWord": "Test3"
+    }
+}
